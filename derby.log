@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 10 13:44:38 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0193-afa2-6c03-0000012c8138 
+on database directory memory:C:\intellj workspace\junitrestapplication\7f47e8ab-e5ad-454c-9334-ecd27f17e700 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4d7e1886 
+Loaded from file:/C:/Users/ASUS/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.1+10-21
+user.dir=C:\intellj workspace\junitrestapplication
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
